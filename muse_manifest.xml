@@ -1,24 +1,24 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.dariteteplo.ru" resolutions="1x" timestamp="1530783545885">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.dariteteplo.ru" resolutions="1x" timestamp="1530792172806">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-a.css" crc="3919184754" ref="index"/>
-    <file name="index.css" crc="90364953" ref="index"/>
+    <file name="site_global.css" crc="218173979"/>
+    <file name="master_______-a.css" crc="3845799002" ref="index"/>
+    <file name="index.css" crc="309755115" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
     <file name="дарите-тепло-favicon.ico" crc="4000796104" ref="index"/>
@@ -93,7 +93,7 @@
     <file name="2015-09-08 16-20-04.jpg" crc="485292328" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2015-05-03 12-24-56-crop-u1535.jpg" crc="487559432" seo="true" ref="index">
+    <file name="2015-05-03 12-24-56-crop-u1535.jpg" crc="4283988076" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="p4120170.jpg" crc="4022828106" seo="true" ref="index">
@@ -237,7 +237,7 @@
     <file name="p7170167.jpg" crc="4097308722" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2015-11-13 13-00-20-crop-u3599.jpg" crc="163881316" seo="true" ref="index">
+    <file name="2015-11-13 13-00-20-crop-u3599.jpg" crc="4011395866" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2015-12-04 10-38-24.jpg" crc="185770652" seo="true" ref="index">
@@ -264,10 +264,10 @@
     <file name="2015-12-04 10-39-26.jpg" crc="3765417734" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2015-12-27 10-37-02-crop-u3939.jpg" crc="362861623" seo="true" ref="index">
+    <file name="2015-12-27 10-37-02-crop-u3939.jpg" crc="4247491428" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pc014053-crop-u3959.jpg" crc="296839547" seo="true" ref="index">
+    <file name="pc014053-crop-u3959.jpg" crc="508465824" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2015-11-13 12-56-42-crop-u3579.jpg" crc="4262814071" seo="true" ref="index">
@@ -276,7 +276,7 @@
     <file name="pc064068.jpg" crc="3905034825" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2015-11-26 10-08-12-crop-u3739.jpg" crc="4249871095" seo="true" ref="index">
+    <file name="2015-11-26 10-08-12-crop-u3739.jpg" crc="274467895" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2016-05-01 13-28-56.jpg" crc="206755339" seo="true" ref="index">
@@ -294,10 +294,10 @@
     <file name="gtlgzag5ib4.jpg" crc="148759471" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2016-02-06 09-47-08-crop-u903.jpg" crc="462422923" seo="true" ref="index">
+    <file name="2016-02-06 09-47-08-crop-u903.jpg" crc="3777309563" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2016-04-08 10-33-34-crop-u1095.jpg" crc="209309002" seo="true" ref="index">
+    <file name="2016-04-08 10-33-34-crop-u1095.jpg" crc="4181684808" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2016-04-08 10-39-4860x47.jpg" crc="3854005999" seo="true" ref="index">
@@ -306,7 +306,7 @@
     <file name="p303015360x57.jpg" crc="3819297910" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pc104075-crop-u1345.jpg" crc="3873700672" seo="true" ref="index">
+    <file name="pc104075-crop-u1345.jpg" crc="496726401" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2016-04-16 08-05-2460x52.jpg" crc="4274709761" seo="true" ref="index">
@@ -318,7 +318,7 @@
     <file name="p225016860x51.jpg" crc="4051399479" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p3030156-crop-u1488.jpg" crc="3788990881" seo="true" ref="index">
+    <file name="p3030156-crop-u1488.jpg" crc="296078593" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="p303016360x51.jpg" crc="423882297" seo="true" ref="index">
@@ -330,10 +330,10 @@
     <file name="2015-09-08 16-20-0460x56.jpg" crc="3913096636" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2015-05-03 12-24-56-crop-u1541.jpg" crc="98651863" seo="true" ref="index">
+    <file name="2015-05-03 12-24-56-crop-u1541.jpg" crc="358052816" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p4120170-crop-u1199.jpg" crc="204194699" seo="true" ref="index">
+    <file name="p4120170-crop-u1199.jpg" crc="4155349959" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="p412017260x48.jpg" crc="423923581" seo="true" ref="index">
@@ -348,10 +348,10 @@
     <file name="2016-06-05 06-58-3260x45.jpg" crc="684894" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p3180154-crop-u1698.jpg" crc="77429626" seo="true" ref="index">
+    <file name="p3180154-crop-u1698.jpg" crc="3971111704" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p3180168-crop-u1738.jpg" crc="3860513523" seo="true" ref="index">
+    <file name="p3180168-crop-u1738.jpg" crc="253279642" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="p318018260x50.jpg" crc="3822571793" seo="true" ref="index">
@@ -542,5 +542,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="194546927" seo="true" mt="1530783531409" redirect="true"/>
+  <file name="index.html" crc="294437128" seo="true" mt="1530792055070" redirect="true"/>
 </manifest>
