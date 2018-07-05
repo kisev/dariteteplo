@@ -1,0 +1,546 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.dariteteplo.ru" resolutions="1x" timestamp="1530783545885">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="3919184754" ref="index"/>
+    <file name="index.css" crc="90364953" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="дарите-тепло-favicon.ico" crc="4000796104" ref="index"/>
+    <file name="flowers verx.png" crc="482437378" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="serdechko 1.png" crc="4000465582" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poloska maxi 3.png" crc="367429123" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bloknot foto.png" crc="254661857" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="albom foto.png" crc="278465081" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flowers 1.png" crc="417983259" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flowers 3.png" crc="4061288765" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="otkitki foto.png" crc="4151540525" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bloknot malish foto.png" crc="4194072132" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flowers 3-u9816-fr.png" crc="466842702" ref="index"/>
+    <file name="2016-02-06 09-47-08.jpg" crc="4212955682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2016-04-08 10-33-34.jpg" crc="232304604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-04-08 10-39-48.jpg" crc="138938191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3030153.jpg" crc="4018416853" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pc104075.jpg" crc="3812128021" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-04-16 08-05-24.jpg" crc="4265581458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-04-16 08-11-42.jpg" crc="4011271479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2250168.jpg" crc="4251133609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3030156.jpg" crc="491589106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3030163.jpg" crc="4078648697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-09-08 16-18-06.jpg" crc="429955295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-09-08 16-20-04.jpg" crc="485292328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-05-03 12-24-56-crop-u1535.jpg" crc="487559432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p4120170.jpg" crc="4022828106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p4120172.jpg" crc="114968690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p4120175.jpg" crc="3867527373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-06-05 06-51-58.jpg" crc="4282791317" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-06-05 06-58-32.jpg" crc="3951048479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3180154.jpg" crc="4023254377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3180168.jpg" crc="213953553" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3180182.jpg" crc="3937060163" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1130026 - copy.jpg" crc="4198278004" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1130031.jpg" crc="4177949050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-24 13-08-16.jpg" crc="191988573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-24 13-12-10.jpg" crc="474656515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-04-25 10-28-10.jpg" crc="4071211075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-24 09-38-54.jpg" crc="3824003386" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-24 09-40-42.jpg" crc="336183327" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-24 09-44-18.jpg" crc="3795035496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-30 09-03-50.jpg" crc="4193825872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-08-02 13-52-10.jpg" crc="4227179708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-08-26 09-41-06.jpg" crc="157300075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-08-26 09-46-08.jpg" crc="3851439797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-09-08 09-43-44.jpg" crc="3916860533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-08-06 12-38-26.jpg" crc="4285227642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-08-06 12-39-38.jpg" crc="433913060" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-08-06 12-40-14.jpg" crc="162592510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-08-06 12-44-30.jpg" crc="191444907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-08-06 12-46-08.jpg" crc="387639145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-08-06 12-47-02.jpg" crc="123423894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p4210161.jpg" crc="470305941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5240161.jpg" crc="3826030580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5240166.jpg" crc="3945707913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5240168.jpg" crc="187038043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5240171.jpg" crc="197214582" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5240174.jpg" crc="160053199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5240175.jpg" crc="21529432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5240179.jpg" crc="332563098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p6120172.jpg" crc="4199648454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p6120179.jpg" crc="154374084" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p6300150.jpg" crc="413713731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7110151.jpg" crc="4230992702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7110163.jpg" crc="310075233" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7110165.jpg" crc="72463201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7150151.jpg" crc="4184043521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7150156.jpg" crc="3945270807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7150159.jpg" crc="287662274" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7170151.jpg" crc="229680178" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7170160.jpg" crc="281643285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7170167.jpg" crc="4097308722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-13 13-00-20-crop-u3599.jpg" crc="163881316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-12-04 10-38-24.jpg" crc="185770652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-12-15 10-18-24.jpg" crc="297756063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-13 13-00-38.jpg" crc="350264417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-13 13-01-02.jpg" crc="334945827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-13 13-01-20-crop-u3659.jpg" crc="477504121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-13 13-02-02.jpg" crc="100394646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-12-04 10-36-44.jpg" crc="173401394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-12-04 10-39-26.jpg" crc="3765417734" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-12-27 10-37-02-crop-u3939.jpg" crc="362861623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pc014053-crop-u3959.jpg" crc="296839547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-13 12-56-42-crop-u3579.jpg" crc="4262814071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pc064068.jpg" crc="3905034825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-26 10-08-12-crop-u3739.jpg" crc="4249871095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-01 13-28-56.jpg" crc="206755339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-08-06 14-42-26.jpg" crc="121716459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-06-13 07-00-56.jpg" crc="3997251500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2260153.jpg" crc="4030447014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gtlgzag5ib4.jpg" crc="148759471" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-02-06 09-47-08-crop-u903.jpg" crc="462422923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-04-08 10-33-34-crop-u1095.jpg" crc="209309002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-04-08 10-39-4860x47.jpg" crc="3854005999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p303015360x57.jpg" crc="3819297910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pc104075-crop-u1345.jpg" crc="3873700672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-04-16 08-05-2460x52.jpg" crc="4274709761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-04-16 08-11-4260x53.jpg" crc="3818475819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p225016860x51.jpg" crc="4051399479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3030156-crop-u1488.jpg" crc="3788990881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p303016360x51.jpg" crc="423882297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-09-08 16-18-06-crop-u2283.jpg" crc="4003032615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-09-08 16-20-0460x56.jpg" crc="3913096636" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-05-03 12-24-56-crop-u1541.jpg" crc="98651863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p4120170-crop-u1199.jpg" crc="204194699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p412017260x48.jpg" crc="423923581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p412017560x49.jpg" crc="209735445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-06-05 06-51-5860x56.jpg" crc="4284648046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-06-05 06-58-3260x45.jpg" crc="684894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3180154-crop-u1698.jpg" crc="77429626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3180168-crop-u1738.jpg" crc="3860513523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p318018260x50.jpg" crc="3822571793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1130026 - copy-crop-u1814.jpg" crc="444286613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p113003160x51.jpg" crc="4242136685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-24 13-08-1660x50.jpg" crc="392783954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-24 13-12-1060x45.jpg" crc="4084697079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-04-25 10-28-1060x53.jpg" crc="3920098306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-24 09-38-5460x46.jpg" crc="400618628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-24 09-40-4260x48.jpg" crc="267066823" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-24 09-44-1860x45.jpg" crc="117110708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-30 09-03-5060x55.jpg" crc="407593000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-08-02 13-52-1060x51.jpg" crc="4088534480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-08-26 09-41-0660x52.jpg" crc="4088114812" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-08-26 09-46-0861x45.jpg" crc="35430555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-09-08 09-43-4460x48.jpg" crc="3836160884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-08-06 12-38-26-crop-u2703.jpg" crc="264582370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-08-06 12-39-3860x47.jpg" crc="380793845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-08-06 12-40-1460x45.jpg" crc="101478590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-08-06 12-44-30-crop-u2763.jpg" crc="3785654784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-08-06 12-46-0860x47.jpg" crc="24319546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-08-06 12-47-0260x45.jpg" crc="3806857012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p421016160x52.jpg" crc="213471844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p524016160x55.jpg" crc="365499975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p524016660x52.jpg" crc="67619294" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p524016860x50.jpg" crc="4109974486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5240171-crop-u2963.jpg" crc="4069326093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p524017460x45.jpg" crc="413538439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p524017560x45.jpg" crc="4143234845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p524017960x46.jpg" crc="205040309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p612017260x46.jpg" crc="3940918951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p612017960x45.jpg" crc="514452279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p630015060x57.jpg" crc="338799227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7110151-crop-u3143.jpg" crc="398958605" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p711016360x46.jpg" crc="3908066274" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p711016560x47.jpg" crc="379529543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7150151-crop-u3243.jpg" crc="3809186743" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p715015660x46.jpg" crc="4276231777" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p715015960x48.jpg" crc="4094931337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7170151-crop-u3303.jpg" crc="3856161878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p717016060x48.jpg" crc="460462399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p717016760x48.jpg" crc="3836696562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-13 13-00-2065x45.jpg" crc="4198827903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-12-04 10-38-2460x46.jpg" crc="182496363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-12-15 10-18-2460x46.jpg" crc="4123461489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-13 13-00-3860x45.jpg" crc="3912894699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-13 13-01-0260x46.jpg" crc="4076149303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-13 13-01-2062x45.jpg" crc="251959416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-13 13-02-0260x46.jpg" crc="3852561432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-12-04 10-36-4460x53.jpg" crc="181344717" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-12-04 10-39-2660x48.jpg" crc="5142508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-12-27 10-37-0261x45.jpg" crc="144849624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pc01405361x45.jpg" crc="211741127" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-13 12-56-42-crop-u3585.jpg" crc="4009270195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pc06406860x48.jpg" crc="4202677782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-26 10-08-1262x45.jpg" crc="3800226499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-05-01 13-28-5660x45.jpg" crc="90092743" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-08-06 14-42-2660x55.jpg" crc="3774669307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-06-13 07-00-5660x52.jpg" crc="466404645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p226015360x49.jpg" crc="4050153061" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gtlgzag5ib460x45.jpg" crc="437829951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="flowers niz.png" crc="4071956614" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk-social-logotype.png" crc="29027612" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-social-network-logo-of-photo-camera.png" crc="4108736659" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="194546927" seo="true" mt="1530783531409" redirect="true"/>
+</manifest>
